@@ -1,0 +1,13 @@
+{
+  "name": "sachin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon hellonode.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.19.1"
+  }
+}
